@@ -1,3 +1,4 @@
+**Status:** 🚧 In progress
 # Waystone Security Partners
 
 **Small business security infrastructure — internal reference**

@@ -1,5 +1,5 @@
 # Waystone Security Partners
-**Status:🚧 In progress**
+**Status:🚧 In progress** |
 **Small business security infrastructure — internal reference**
 
 A role-per-machine infrastructure plan for a nine-person security consultancy, built entirely from repurposed hardware: six compute nodes, a Wi-Fi access point, a shared office printer, a 20 TB mirrored DAS, and a managed switch, arranged into nine trust zones so a client engagement gone wrong can never reach the firm's own backups, and client files stay walled off from everything else.
